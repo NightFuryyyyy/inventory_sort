@@ -10,7 +10,7 @@
 
 ## Demo
 
-![Screen recording](https://raw.githubusercontent.com/NightFuryyyyy/inventory_sort/refs/heads/assets/screen_recording.mp4")
+![Screen recording](https://raw.githubusercontent.com/NightFuryyyyy/inventory_sort/refs/heads/assets/screen_recording.mp4)
 
 ## How to Use
 
