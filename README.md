@@ -1,8 +1,8 @@
 # inventory_sort
 
-<img src="https://raw.githubusercontent.com/NightFuryyyyy/inventory_sort/refs/heads/assets/screenshot.png" width="500px">
-
 [Tools Used](#tools-used) • [Demo](#demo) • [How to Use](#how-to-use) • [Build](#build)
+
+<img src="https://raw.githubusercontent.com/NightFuryyyyy/inventory_sort/refs/heads/assets/screenshot.png" width="500px">
 
 ## Tools Used
 - Qt Designer
