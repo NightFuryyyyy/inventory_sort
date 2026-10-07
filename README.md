@@ -73,6 +73,6 @@
    ```
 3. Build the executable using PyInstaller.
    ```bash
-   pyinstaller -w --onefile ./app.py -n "inventory_sort"
+   pyinstaller -w -F ./app.py -n "inventory_sort"
    ```
 The executable can be found in the `dist` folder.
