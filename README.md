@@ -1,12 +1,13 @@
 # inventory_sort
 
+![screenshot](https://raw.githubusercontent.com/NightFuryyyyy/inventory_sort/refs/heads/assets/screenshot.png)
+
 [Tools Used](#tools-used) • [Demo](#demo) • [How to Use](#how-to-use) • [Build](#build)
 
 ## Tools Used
 - Qt Designer
 - PyQt6
 - PyInstaller
-
 
 ## Demo
 
