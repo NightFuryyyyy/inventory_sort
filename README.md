@@ -20,41 +20,41 @@
 2. Download the [sample dataset](https://github.com/NightFuryyyyy/inventory_sort/blob/main/inventory.json) or create a JSON file according to this schema:
    ```JSON
    {
-      "$schema": "https://json-schema.org/draft/2020-12/schema",
-      "title": "Generated Schema",
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer"
-          },
-          "name": {
-            "type": "string"
-          },
-          "category": {
-            "type": "string"
-          },
-          "quantity": {
-            "type": "integer"
-          },
-          "price": {
-            "type": "integer"
-          },
-          "restock_date": {
-            "type": "string",
-            "format": "date"
-          }
-        },
-        "required": [
-          "id",
-          "name",
-          "category",
-          "quantity",
-          "price",
-          "restock_date"
-        ]
-      }
+     "$schema": "https://json-schema.org/draft/2020-12/schema",
+     "title": "Generated Schema",
+     "type": "array",
+     "items": {
+       "type": "object",
+       "properties": {
+         "id": {
+           "type": "integer"
+         },
+         "name": {
+           "type": "string"
+         },
+         "category": {
+           "type": "string"
+         },
+         "quantity": {
+           "type": "integer"
+         },
+         "price": {
+           "type": "integer"
+         },
+         "restock_date": {
+           "type": "string",
+           "format": "date"
+         }
+       },
+       "required": [
+         "id",
+         "name",
+         "category",
+         "quantity",
+         "price",
+         "restock_date"
+       ]
+     }
    }
    ```
 3. Run the executable.
